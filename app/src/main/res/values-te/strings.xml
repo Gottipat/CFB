@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="Login">Login</string>
-    <string name="Login_name">Login name</string>
-    <string name="password">Password</string>
-    <string name="message">Hello World!</string>
-    <string name="openText">Button</string>
+    <string name="app_name">AndroidAssignments</string>
+    <string name="hello_message">హలో వరల్డ్!</string>
+    <string name="ButtonText">నేను ఒక బటన్ ని</string>
+
+    <string name="login_text">లాగిన్ చేయండి</string>
+    <string name="login_hint">లాగిన్ పేరు</string>
+    <string name="password_text">పాస్వర్డ్</string>
+    <string name="password_hint">పాస్వర్డ్ను నమోదు చేయండి</string>
+
+    <string name="radio_button">రేడియో బటన్</string>
+    <string name="check_box">చెక్ బాక్స్</string>
+    <string name="switch_label">లేబుల్‌ని మార్చండి</string>
+    <string name="camera_button_desc">కెమెరాను తెరవండి</string>
 </resources>

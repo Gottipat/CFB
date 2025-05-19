@@ -1,8 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="Login">Login</string>
-    <string name="Login_name">Login name</string>
-    <string name="password">Password</string>
-    <string name="message">Hello World!</string>
-    <string name="openText">Button</string>
+    <string name="app_name">AndroidAssignments</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+
+    <!-- Login-related strings -->
+    <string name="login_text">login</string>
+    <string name="login_hint">login name</string>
+    <string name="password_text">Password</string>
+    <string name="password_hint">Enter password</string>
+
+    <!-- UI component labels -->
+    <string name="radio_button">Radio Button</string>
+    <string name="check_box">Check Box</string>
+    <string name="switch_label">Switch Label</string>
+    <string name="camera_button_desc">Open Camera</string>
 </resources>
