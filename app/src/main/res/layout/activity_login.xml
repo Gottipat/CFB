@@ -60,6 +60,6 @@
             android:maxWidth="600dp" />
 
 
-        <!-- The rest of the layout is cut off in the image -->
+
     </LinearLayout>
 </ScrollView>

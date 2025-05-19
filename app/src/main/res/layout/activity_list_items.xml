@@ -14,21 +14,21 @@
     <RadioButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Radio Button"
+        android:text="@string/radio_button"
         android:gravity="center"
         android:layout_margin="8dp" />
 
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Check Box"
+        android:text="@string/check_box"
         android:gravity="center"
         android:layout_margin="8dp" />
 
     <androidx.appcompat.widget.SwitchCompat
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Switch Label"
+        android:text="@string/switch_label"
         android:minWidth="48dp"
         android:minHeight="48dp"
         android:gravity="center"
